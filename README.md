@@ -1,2 +1,6 @@
 # hello-world2
-Just another repository
+This is just another repository.
+Nothing new here.
+
+A good place.
+
